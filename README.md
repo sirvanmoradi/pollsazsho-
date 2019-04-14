@@ -9,13 +9,13 @@ chmod 777 install.sh
 ```
 ## Create a bot!
 ```
-root@iTeam:~# lua creator.lua
+pollsazsho:~# lua creator.lua
 Auto Detected Tabchi ID : 0
-Enter Full Sudo ID : 122774063
+Enter Full Sudo ID : 558835542
 Done!
 New Tabchi Created...
 ID : 0
-Full Sudo : 122774063
+Full Sudo : 558835542
 Run : ./tabchi-0.sh
 ```
 Enter your telegram Id in "Full Sudo ID" part
@@ -26,12 +26,6 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 
 ## Help and more...
 Send `/start` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
-## Developers
 
- * [BugFather (Amir_h)](https://telegram.me/BugFather)
- * [Base64 (Amin)](https://telegram.me/Base64)
- * [Jan123 (Javad)](https://telegram.me/jan123)
- * [Shayan123Hacker (Shayan)](https://telegram.me/Shayan123Hacker)
- * [Mehrpouya](https://telegram.me/Mehrpouya)
-
-### Powered by [iTeam](https://telegram.me/iTeam_IR)
+### Powered by telegram.me/pollsazsho 
+telegram.me/smoradi19
